@@ -7,7 +7,6 @@ Includes a **lightbox viewer**, **previous/next navigation**, and **search funct
 
 ## 🚀 Live Demo
 [View on GitHub Pages](https://yari4ek89.github.io/imagegalleryapi-site/)  
-*(Replace with your actual link)*
 
 ---
 
